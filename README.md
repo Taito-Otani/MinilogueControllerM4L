@@ -5,6 +5,10 @@ This plugin can control minilogue in ableton by using M4L Device. Possibles to w
 
 #m4l #minilogue #korg #controller
 
+Please donate me.
+https://nineteen95.stores.jp/
+
+https://nineteen95.stores.jp/items/608af10dda019c58aaabede3
 
 # How to install
 - You need Ableton live and Max for live - Move folder to max for live search path.
